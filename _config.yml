@@ -1,0 +1,26 @@
+# Site settings
+name: 小明同学
+email: jcxs20144@126.com
+author: jcxs2014
+url: https://jcxs2014@github.io
+#resume_site: http://www.hifreud.com/Resume.io/
+github: https://github.com/jcxs2014
+baseurl: "blog.github.io"
+description: Believe!
+meta_description: 小明同学的个人博客
+motto: It's our wits that make us men.
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: jcxs2014
+
+# Build settings
+markdown: kramdown
+
+#baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
