@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 我的书单
-permalink: /books/
+title: 关于作者
+permalink: /resume/
 ---
 
 * content
 {:toc}
 
 
-2020年书单
+目标
 -----------------------------------------------------------------
 
-+ 《冬牧场》
+- 好好写文字
