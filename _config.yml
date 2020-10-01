@@ -1,11 +1,11 @@
 # Site settings
 name: 小明同学
-email: jcxs20144@126.com
+email: jcxs2014@126.com
 author: jcxs2014
-url: https://jcxs2014@github.io
+url: https://jcxs2014@github.io/blog/
 #resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/jcxs2014
-baseurl: "blog.github.io"
+baseurl: "blog"
 description: Believe!
 meta_description: 小明同学的个人博客
 motto: It's our wits that make us men.
