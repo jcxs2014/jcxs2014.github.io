@@ -6526,7 +6526,7 @@ hr {
 .docs-nav .container .navbar-brand img {
   display: block;
   max-width: 100%;
-  height: auto;
+  height: 38px;
 }
 .docs-nav .navbar-nav > li > a,
 .docs-nav .navbar-nav > li > span {
