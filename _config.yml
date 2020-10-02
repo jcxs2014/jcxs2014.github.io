@@ -2,10 +2,10 @@
 name: 小明同学
 email: jcxs2014@126.com
 author: jcxs2014
-url: https://jcxs2014@github.io/
+url: https://jcxs2014@github.io
 #resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/jcxs2014
-baseurl: ""
+baseurl: "/"
 description: 老牛自知黄昏晚，不待扬鞭自奋蹄。
 meta_description: 小明同学的个人博客
 #motto: It's our wits that make us men.
